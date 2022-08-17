@@ -3,7 +3,7 @@
 ![GitReadMe](https://user-images.githubusercontent.com/105626661/185183097-4c99bc64-c7ee-4cef-ac0b-98a835803a1f.JPG)
 
 ## About Me:
-### Software Engineer who enjoys problem solving and adapting to overcome any challenge. A musician’s creative mind with a love for learning and growing in my programming knowledge. I apply myself to problems with a creative approach, coupled with a logical mindset
+### I'm a Software Engineer based outside of Chicago, Illinois. I enjoy expanding my programming knowledge and skillset through challenges. I enjoy playing and writing music in my freetime, as well as cooking. 
 
 ## Contact Me:
 <a href="https://www.linkedin.com/in/elijahcandrews/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
